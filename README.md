@@ -1,5 +1,8 @@
 # 📊 UDISE Dropout Rate Analysis Report  
 
+<img width="1024" height="1024" alt="imgq" src="https://github.com/user-attachments/assets/1ae7fd8d-aad0-4bc2-bcc5-7547daa7de56" />
+
+
 A data-driven analysis of student dropout rates across India using **UDISE (Unified District Information System for Education)** data.  
 This project applies **statistical methods, machine learning models, and visualization techniques** to uncover patterns and provide actionable recommendations for policymakers and educators.  
 
@@ -10,6 +13,9 @@ This project applies **statistical methods, machine learning models, and visuali
 - **Coverage**: 111 States/UTs  
 - **Education Levels**: Primary (1–5), Upper Primary (6–8), Secondary (9–10)  
 - **Dataset**: 9 features | 88 training samples | 23 testing samples  
+
+![correlation_heatmap]([flowcharts/project_flowchart.png](https://github.com/Monike123/DropOut_Government_Data_Analysis/blob/main/Drop_out/correlation_heatmap.png))
+
 
 **Key Findings:**  
 - 📉 Primary Avg Dropout Rate: **3.32%**  
