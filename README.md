@@ -1,8 +1,7 @@
 # 📊 UDISE Dropout Rate Analysis
 
 <div align="center">
-<img width="1024" height="1024" alt="imgq" src="https://github.com/user-attachments/assets/b5a48c47-f820-4692-a88c-b2c40ba6cd78" />
-
+  
 ![Project Banner](https://github.com/user-attachments/assets/1ae7fd8d-aad0-4bc2-bcc5-7547daa7de56)
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
