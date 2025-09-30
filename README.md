@@ -14,7 +14,9 @@ This project applies **statistical methods, machine learning models, and visuali
 - **Education Levels**: Primary (1–5), Upper Primary (6–8), Secondary (9–10)  
 - **Dataset**: 9 features | 88 training samples | 23 testing samples  
 
-![correlation_heatmap]([flowcharts/project_flowchart.png](https://github.com/Monike123/DropOut_Government_Data_Analysis/blob/main/Drop_out/correlation_heatmap.png))
+Below is the high-level **correlation_heatmap** of the analysis:
+
+![correlation_heatmap](Drop_out/correlation_heatmap.png)  
 
 
 **Key Findings:**  
