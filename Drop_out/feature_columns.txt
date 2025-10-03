@@ -1,0 +1,17 @@
+State_Encoded
+Dropout_Rate___Primary_(1_to_5)___Boys
+Dropout_Rate___Primary_(1_to_5)___Girls
+Dropout_Rate___Upper_Primary_(6_8)___Boys
+Dropout_Rate___Upper_Primary_(6_8)___Girls
+Gender_Gap_Primary
+Gender_Gap_Upper
+Abs_Gender_Gap_Primary
+Abs_Gender_Gap_Upper
+Avg_Dropout_Primary
+Avg_Dropout_Upper
+Dropout_Increase_Primary_to_Upper
+Dropout_Increase_Upper_to_Secondary
+Gender_Gap_Change_Primary_to_Upper
+Gender_Gap_Change_Upper_to_Secondary
+Boys_Higher_Primary
+Boys_Higher_Upper
