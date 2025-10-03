@@ -1,9 +1,0 @@
-State_Encoded
-Dropout_Rate___Primary_(1_to_5)___Boys
-Dropout_Rate___Primary_(1_to_5)___Girls
-Dropout_Rate___Upper_Primary_(6_8)___Boys
-Dropout_Rate___Upper_Primary_(6_8)___Girls
-Gender_Gap_Primary
-Gender_Gap_Upper
-Avg_Dropout_Primary
-Avg_Dropout_Upper
